@@ -1,0 +1,136 @@
+[2016-11-27 12:25:59.100] [INFO] appLog - Listening on port 8080
+[2016-11-27 12:27:34.964] [INFO] appLog - Listening on port 8080
+[2016-11-27 12:27:35.050] [INFO] appLog - Connected to MongoDB
+[2016-11-27 12:29:45.184] [INFO] appLog - Listening on port 8080
+[2016-11-27 12:29:45.254] [INFO] appLog - Connected to MongoDB
+[2016-11-27 12:30:12.731] [INFO] appLog - Listening on port 8080
+[2016-11-27 12:30:12.768] [INFO] appLog - Connected to MongoDB
+[2016-11-27 12:30:59.925] [INFO] appLog - Listening on port 8080
+[2016-11-27 12:30:59.977] [INFO] appLog - Connected to MongoDB
+[2016-11-27 12:31:31.145] [INFO] appLog - Listening on port 8080
+[2016-11-27 12:31:31.214] [INFO] appLog - Connected to MongoDB
+[2016-11-27 12:32:11.824] [INFO] appLog - Listening on port 8080
+[2016-11-27 12:32:11.902] [INFO] appLog - Connected to MongoDB
+[2016-11-27 12:32:14.742] [ERROR] appLog - Todo - get: Error while getting the todos list for user CastError: Cast to ObjectId failed for value "idid" at path "user"
+[2016-11-27 12:33:58.097] [INFO] appLog - Listening on port 8080
+[2016-11-27 12:33:58.142] [INFO] appLog - Connected to MongoDB
+[2016-11-27 12:38:51.766] [INFO] appLog - Listening on port 8080
+[2016-11-27 12:38:51.842] [INFO] appLog - Connected to MongoDB
+[2016-11-27 12:44:13.374] [INFO] appLog - Listening on port 8080
+[2016-11-27 12:44:13.423] [INFO] appLog - Connected to MongoDB
+[2016-11-27 12:44:18.088] [ERROR] appLog - Todo - get: Error while searching for userCastError: Cast to ObjectId failed for value "idid" at path "_id"
+[2016-11-27 12:45:52.488] [INFO] appLog - Listening on port 8080
+[2016-11-27 12:45:52.538] [INFO] appLog - Connected to MongoDB
+[2016-11-27 12:45:54.515] [ERROR] appLog - Todo - get: Error while searching for userCastError: Cast to ObjectId failed for value "idid" at path "_id"
+[2016-11-27 12:49:20.911] [INFO] appLog - Listening on port 8080
+[2016-11-27 12:49:21.002] [INFO] appLog - Connected to MongoDB
+[2016-11-27 12:49:58.879] [INFO] appLog - Listening on port 8080
+[2016-11-27 12:49:58.921] [INFO] appLog - Connected to MongoDB
+[2016-11-27 12:50:01.612] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 12:50:28.135] [INFO] appLog - Listening on port 8080
+[2016-11-27 12:50:28.186] [INFO] appLog - Connected to MongoDB
+[2016-11-27 12:50:30.502] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 12:51:06.098] [INFO] appLog - Listening on port 8080
+[2016-11-27 12:51:06.152] [INFO] appLog - Connected to MongoDB
+[2016-11-27 12:51:10.550] [ERROR] appLog - Todo - get: No tasks found
+[2016-11-27 12:52:12.898] [INFO] appLog - Listening on port 8080
+[2016-11-27 12:52:12.939] [INFO] appLog - Connected to MongoDB
+[2016-11-27 12:53:43.009] [ERROR] appLog - Todo -get: No user found
+[2016-11-27 12:55:30.715] [ERROR] appLog - Todo - add: No user found
+[2016-11-27 12:56:57.000] [INFO] appLog - Todo - add: User found
+[2016-11-27 12:56:57.132] [INFO] appLog - Todo - add: Task added
+[2016-11-27 12:57:11.561] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 12:58:07.016] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 13:06:40.482] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 13:07:02.699] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 13:07:09.255] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 13:07:17.988] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 13:08:01.387] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 13:10:25.271] [INFO] appLog - Listening on port 8080
+[2016-11-27 13:10:25.461] [INFO] appLog - Connected to MongoDB
+[2016-11-27 13:10:30.151] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 17:03:21.725] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 17:10:40.728] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 17:11:58.115] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 17:12:37.247] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 17:12:45.783] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 17:13:07.001] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 17:13:31.645] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 17:13:53.393] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 17:14:30.366] [INFO] appLog - Listening on port 8080
+[2016-11-27 17:14:30.508] [INFO] appLog - Connected to MongoDB
+[2016-11-27 17:15:18.040] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 17:16:53.230] [INFO] appLog - Todo - delete: Task deleted
+[2016-11-27 17:17:10.631] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 17:18:22.336] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 17:18:52.296] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 17:19:33.495] [INFO] appLog - Todo - delete: Task deleted
+[2016-11-27 17:19:38.510] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 17:22:13.740] [INFO] appLog - Listening on port 8080
+[2016-11-27 17:22:13.773] [INFO] appLog - Connected to MongoDB
+[2016-11-27 17:22:17.697] [INFO] appLog - Todo - delete: Task deleted
+[2016-11-27 17:22:25.888] [ERROR] appLog - Todo - get: No tasks found
+[2016-11-27 17:24:13.310] [ERROR] appLog - Todo - get: No tasks found
+[2016-11-27 17:24:24.350] [ERROR] appLog - Todo - get: No tasks found
+[2016-11-27 17:24:42.987] [INFO] appLog - Todo - add: User found
+[2016-11-27 17:24:43.059] [INFO] appLog - Todo - add: Task added
+[2016-11-27 17:24:50.127] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 17:28:44.109] [INFO] appLog - Listening on port 8080
+[2016-11-27 17:28:44.170] [INFO] appLog - Connected to MongoDB
+[2016-11-27 17:30:40.788] [INFO] appLog - Listening on port 8080
+[2016-11-27 17:30:40.836] [INFO] appLog - Connected to MongoDB
+[2016-11-27 17:30:43.834] [INFO] appLog - Todo - update: Task updated
+[2016-11-27 17:30:52.192] [INFO] appLog - Todo - update: Task updated
+[2016-11-27 17:31:05.970] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 17:31:36.065] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 17:32:27.711] [INFO] appLog - Listening on port 8080
+[2016-11-27 17:32:27.777] [INFO] appLog - Connected to MongoDB
+[2016-11-27 17:32:35.042] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 17:34:01.916] [INFO] appLog - Listening on port 8080
+[2016-11-27 17:34:01.967] [INFO] appLog - Connected to MongoDB
+[2016-11-27 17:34:50.485] [INFO] appLog - Listening on port 8080
+[2016-11-27 17:34:50.547] [INFO] appLog - Connected to MongoDB
+[2016-11-27 17:35:14.860] [INFO] appLog - Listening on port 8080
+[2016-11-27 17:35:14.956] [INFO] appLog - Connected to MongoDB
+[2016-11-27 17:36:49.302] [INFO] appLog - Listening on port 8080
+[2016-11-27 17:36:49.448] [INFO] appLog - Connected to MongoDB
+[2016-11-27 17:36:58.841] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 17:37:06.674] [INFO] appLog - Todo - delete: Task deleted
+[2016-11-27 17:37:20.476] [ERROR] appLog - Todo - get: No tasks found
+[2016-11-27 17:43:10.414] [ERROR] appLog - Todo - get: No tasks found
+[2016-11-27 17:43:50.281] [ERROR] appLog - Todo - get: No tasks found
+[2016-11-27 17:44:02.204] [ERROR] appLog - Todo - get: No tasks found
+[2016-11-27 17:44:13.690] [ERROR] appLog - Todo - get: No tasks found
+[2016-11-27 17:44:23.660] [ERROR] appLog - Todo - get: No tasks found
+[2016-11-27 17:44:55.194] [INFO] appLog - Todo - add: User found
+[2016-11-27 17:44:55.284] [INFO] appLog - Todo - add: Task added
+[2016-11-27 17:44:55.376] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 17:45:04.931] [INFO] appLog - Todo - update: Task updated
+[2016-11-27 17:45:05.099] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 17:45:07.817] [INFO] appLog - Todo - update: Task updated
+[2016-11-27 17:45:07.893] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 17:45:10.154] [INFO] appLog - Todo - update: Task updated
+[2016-11-27 17:45:10.298] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 17:45:12.043] [INFO] appLog - Todo - update: Task updated
+[2016-11-27 17:45:12.127] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 17:45:59.853] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 17:46:05.469] [INFO] appLog - Todo - update: Task updated
+[2016-11-27 17:46:05.574] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 17:46:08.650] [INFO] appLog - Todo - update: Task updated
+[2016-11-27 17:46:08.763] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 17:46:10.706] [INFO] appLog - Todo - update: Task updated
+[2016-11-27 17:46:10.792] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 17:46:12.661] [INFO] appLog - Todo - delete: Task deleted
+[2016-11-27 17:46:12.703] [ERROR] appLog - Todo - get: No tasks found
+[2016-11-27 17:47:14.038] [INFO] appLog - Listening on port 8080
+[2016-11-27 17:47:14.120] [INFO] appLog - Connected to MongoDB
+[2016-11-27 17:47:25.635] [ERROR] appLog - Todo - get: No tasks found
+[2016-11-27 17:47:54.396] [INFO] appLog - Todo - add: User found
+[2016-11-27 17:47:54.456] [INFO] appLog - Todo - add: Task added
+[2016-11-27 17:47:54.571] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 17:47:58.330] [INFO] appLog - Todo - update: Task updated
+[2016-11-27 17:47:58.384] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 17:48:02.072] [INFO] appLog - Todo - update: Task updated
+[2016-11-27 17:48:02.253] [INFO] appLog - Todo - get: Tasks found
+[2016-11-27 17:48:03.456] [INFO] appLog - Todo - delete: Task deleted
+[2016-11-27 17:48:03.507] [ERROR] appLog - Todo - get: No tasks found
