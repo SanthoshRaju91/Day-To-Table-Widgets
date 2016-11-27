@@ -5,7 +5,7 @@
 module.exports = {
   config: {
     host: '0.0.0.0',
-    port: '8080',
+    port: '8000',
     database: 'dev',
     user: 'user',
     password: 'user',
@@ -13,6 +13,6 @@ module.exports = {
   },
   loggerFileLocation: 'logs/app.log',
   mongodb: {
-    url: 'mongodb://localhost:27017/test'
+    url: 'mongodb://0.0.0.0:27017/test'
   }
 };
