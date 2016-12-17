@@ -134,3 +134,479 @@
 [2016-11-27 17:48:02.253] [INFO] appLog - Todo - get: Tasks found
 [2016-11-27 17:48:03.456] [INFO] appLog - Todo - delete: Task deleted
 [2016-11-27 17:48:03.507] [ERROR] appLog - Todo - get: No tasks found
+[2016-11-29 17:58:55.181] [INFO] appLog - Listening on port 8000
+[2016-11-29 17:58:55.218] [INFO] appLog - Connected to MongoDB
+[2016-11-29 18:01:10.075] [ERROR] appLog - Todo - get: No tasks found
+[2016-11-29 18:01:45.843] [INFO] appLog - Todo - add: User found
+[2016-11-29 18:01:45.913] [INFO] appLog - Todo - add: Task added
+[2016-11-29 18:01:46.009] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:05:11.249] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:05:29.991] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:05:47.112] [INFO] appLog - Todo - update: Task updated
+[2016-11-29 18:05:47.328] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:05:48.138] [INFO] appLog - Todo - update: Task updated
+[2016-11-29 18:05:48.236] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:05:54.458] [INFO] appLog - Todo - delete: Task deleted
+[2016-11-29 18:05:54.584] [ERROR] appLog - Todo - get: No tasks found
+[2016-11-29 18:06:07.687] [INFO] appLog - Todo - add: User found
+[2016-11-29 18:06:07.697] [INFO] appLog - Todo - add: Task added
+[2016-11-29 18:06:07.761] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:06:21.060] [INFO] appLog - Todo - add: User found
+[2016-11-29 18:06:21.078] [INFO] appLog - Todo - add: Task added
+[2016-11-29 18:06:21.189] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:06:56.383] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:07:11.352] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:07:23.811] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:08:48.169] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:10:55.659] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:11:17.862] [INFO] appLog - Todo - update: Task updated
+[2016-11-29 18:11:18.010] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:11:19.780] [INFO] appLog - Todo - update: Task updated
+[2016-11-29 18:11:19.893] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:14:38.514] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:16:15.592] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:16:37.307] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:17:25.233] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:18:02.778] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:18:18.053] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:18:30.877] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:18:45.703] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:19:12.569] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:20:08.472] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:20:23.758] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:21:00.137] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:21:15.499] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:21:52.210] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:23:10.928] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:23:18.572] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:23:34.749] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:23:55.473] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:24:26.982] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:25:04.063] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:25:28.950] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:25:52.898] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:28:31.785] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:28:44.772] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:28:54.724] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:29:17.901] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:30:03.134] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:30:51.954] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:31:32.397] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:31:35.238] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:32:07.274] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:32:17.079] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:32:57.172] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:36:00.649] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:36:21.094] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:36:31.884] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:36:48.327] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:37:38.910] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:38:30.709] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:38:42.706] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:39:54.225] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:39:58.603] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:40:19.337] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:40:33.836] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:40:56.292] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:41:23.620] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:41:58.235] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:42:22.616] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:42:35.438] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:43:19.104] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:44:05.782] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:44:22.112] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:44:54.105] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:45:08.423] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:45:38.476] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:46:27.065] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:47:32.707] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:47:40.913] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:48:35.725] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:48:51.658] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:49:30.894] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:52:54.925] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:53:48.398] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:54:00.629] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:54:55.098] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:57:26.519] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:57:41.681] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:58:19.730] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:58:55.402] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:59:03.669] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:59:15.955] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:59:37.515] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 18:59:52.875] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:00:00.026] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:00:23.463] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:00:30.804] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:00:38.419] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:00:54.654] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:01:19.955] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:01:31.513] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:02:04.860] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:02:30.541] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:03:25.346] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:07:13.326] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:07:28.643] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:09:22.006] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:09:30.201] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:09:47.287] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:09:59.404] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:10:47.001] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:11:48.291] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:16:22.585] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:20:41.747] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:21:43.261] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:22:29.029] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:23:56.043] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:24:49.826] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:25:23.732] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:26:09.766] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:26:34.280] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:28:23.665] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:32:56.269] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:33:18.259] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:33:39.512] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:34:51.740] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:35:05.682] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:35:13.093] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:35:43.853] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:36:18.224] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:37:29.885] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:37:37.850] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:56:59.285] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:57:18.260] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:57:36.223] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:58:33.376] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:59:08.270] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:59:12.816] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 19:59:42.023] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:09:44.797] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:10:46.084] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:11:21.139] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:12:07.308] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:12:22.684] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:13:09.032] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:14:26.029] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:14:39.974] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:15:09.722] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:15:42.676] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:16:00.881] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:16:14.587] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:17:13.601] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:17:42.249] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:18:38.191] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:19:10.658] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:19:40.567] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:19:45.180] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:20:10.519] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:20:29.420] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:21:55.342] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:22:13.124] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:23:24.765] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:23:54.380] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:25:41.928] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:26:46.578] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:29:51.522] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:29:59.208] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:31:31.346] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:31:54.162] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:32:36.056] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:32:59.653] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:33:51.604] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:34:51.052] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:36:17.860] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:37:11.107] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:37:22.399] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:39:21.821] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:39:30.961] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:39:54.386] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:41:30.084] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:45:46.251] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:45:54.518] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:46:52.445] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:47:57.273] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:49:14.362] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:49:54.742] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:50:23.075] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:52:07.629] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:52:18.731] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:52:38.829] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:53:27.609] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:53:44.408] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:54:26.900] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:54:40.538] [INFO] appLog - Todo - get: Tasks found
+[2016-11-29 20:54:56.893] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 19:06:45.041] [INFO] appLog - Listening on port 8000
+[2016-12-17 19:06:45.136] [INFO] appLog - Connected to MongoDB
+[2016-12-17 19:13:57.359] [ERROR] appLog - Todo -get: No user found
+[2016-12-17 19:21:44.087] [ERROR] appLog - Todo - add: No user found
+[2016-12-17 19:22:08.060] [ERROR] appLog - Todo -get: No user found
+[2016-12-17 19:24:59.848] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 19:28:02.644] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 19:33:45.332] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 19:34:35.793] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 19:38:33.515] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 19:40:50.005] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 19:48:11.909] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 19:48:11.917] [INFO] appLog - get notes: User found
+[2016-12-17 19:48:11.921] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 19:49:19.854] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 19:49:19.858] [INFO] appLog - get notes: User found
+[2016-12-17 19:49:19.863] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 19:50:40.630] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 19:50:40.640] [INFO] appLog - get notes: User found
+[2016-12-17 19:50:40.659] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 19:54:56.265] [INFO] appLog - get notes: User found
+[2016-12-17 19:54:56.271] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 19:54:56.277] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 19:55:07.574] [INFO] appLog - get notes: User found
+[2016-12-17 19:55:07.578] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 19:55:07.580] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 19:56:02.496] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 19:56:02.503] [INFO] appLog - get notes: User found
+[2016-12-17 19:56:02.525] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 19:58:34.870] [INFO] appLog - get notes: User found
+[2016-12-17 19:58:34.872] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 19:58:34.990] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 19:59:03.382] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 19:59:03.388] [INFO] appLog - get notes: User found
+[2016-12-17 19:59:03.391] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 20:02:21.155] [INFO] appLog - get notes: User found
+[2016-12-17 20:02:21.159] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 20:02:21.165] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 20:08:18.778] [INFO] appLog - get notes: User found
+[2016-12-17 20:08:18.783] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 20:08:18.785] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 20:08:46.890] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 20:08:46.988] [INFO] appLog - get notes: User found
+[2016-12-17 20:08:46.990] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 20:09:24.975] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 20:09:24.982] [INFO] appLog - get notes: User found
+[2016-12-17 20:09:24.985] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 20:14:11.519] [INFO] appLog - get notes: User found
+[2016-12-17 20:14:11.523] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 20:14:11.540] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 20:18:32.375] [INFO] appLog - get notes: User found
+[2016-12-17 20:18:32.380] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 20:18:32.384] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 20:19:29.405] [INFO] appLog - add notes: User found
+[2016-12-17 20:19:29.430] [ERROR] appLog - add notes: Error while adding notes for the user: ValidationError: Path `notes` is required.
+[2016-12-17 20:19:41.092] [INFO] appLog - add notes: User found
+[2016-12-17 20:19:41.097] [ERROR] appLog - add notes: Error while adding notes for the user: ValidationError: Path `notes` is required.
+[2016-12-17 20:21:08.890] [INFO] appLog - Listening on port 8000
+[2016-12-17 20:21:08.985] [INFO] appLog - Connected to MongoDB
+[2016-12-17 20:21:14.266] [INFO] appLog - add notes: User found
+[2016-12-17 20:21:14.399] [INFO] appLog - add notes: Note added successfully
+[2016-12-17 20:22:10.376] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 20:22:10.490] [INFO] appLog - get notes: User found
+[2016-12-17 20:22:10.493] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 20:22:57.865] [INFO] appLog - get notes: User found
+[2016-12-17 20:22:57.877] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 20:22:57.933] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 20:24:26.474] [INFO] appLog - get notes: User found
+[2016-12-17 20:24:26.479] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 20:24:26.485] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 20:40:08.889] [INFO] appLog - get notes: User found
+[2016-12-17 20:40:08.895] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 20:40:08.900] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 20:41:58.211] [INFO] appLog - get notes: User found
+[2016-12-17 20:41:58.217] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 20:41:58.221] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 20:44:18.270] [INFO] appLog - get notes: User found
+[2016-12-17 20:44:18.278] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 20:44:18.282] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 20:45:58.543] [INFO] appLog - get notes: User found
+[2016-12-17 20:45:58.551] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 20:45:58.602] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 20:46:16.613] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 20:46:16.764] [INFO] appLog - get notes: User found
+[2016-12-17 20:46:16.772] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 20:46:34.485] [INFO] appLog - add notes: User found
+[2016-12-17 20:46:34.615] [INFO] appLog - add notes: Note added successfully
+[2016-12-17 20:46:56.635] [INFO] appLog - add notes: User found
+[2016-12-17 20:46:56.640] [INFO] appLog - add notes: Note added successfully
+[2016-12-17 20:47:05.462] [ERROR] appLog - delete notes: no user found
+[2016-12-17 20:49:19.353] [ERROR] appLog - delete notes: no user found
+[2016-12-17 20:50:13.230] [INFO] appLog - Listening on port 8000
+[2016-12-17 20:50:13.289] [INFO] appLog - Connected to MongoDB
+[2016-12-17 20:50:15.401] [ERROR] appLog - delete notes: no user found
+[2016-12-17 20:51:13.773] [INFO] appLog - Listening on port 8000
+[2016-12-17 20:51:13.820] [INFO] appLog - Connected to MongoDB
+[2016-12-17 20:51:16.651] [ERROR] appLog - delete notes: no user found
+[2016-12-17 20:52:09.839] [INFO] appLog - Listening on port 8000
+[2016-12-17 20:52:09.924] [INFO] appLog - Connected to MongoDB
+[2016-12-17 20:52:12.028] [ERROR] appLog - delete notes: no user found
+[2016-12-17 20:53:15.135] [INFO] appLog - Listening on port 8000
+[2016-12-17 20:53:15.234] [INFO] appLog - Connected to MongoDB
+[2016-12-17 20:53:32.773] [INFO] appLog - get notes: User found
+[2016-12-17 20:53:32.793] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 20:53:32.814] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 20:54:12.407] [INFO] appLog - delete notes: user found
+[2016-12-17 20:54:12.469] [INFO] appLog - delete notes: Note deleted successfully
+[2016-12-17 20:54:12.577] [INFO] appLog - get notes: User found
+[2016-12-17 20:54:12.584] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 20:54:24.578] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 20:54:24.937] [INFO] appLog - get notes: User found
+[2016-12-17 20:54:24.941] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 20:54:41.754] [INFO] appLog - delete notes: user found
+[2016-12-17 20:54:41.760] [INFO] appLog - delete notes: Note deleted successfully
+[2016-12-17 20:54:41.883] [INFO] appLog - get notes: User found
+[2016-12-17 20:54:41.892] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 20:54:53.421] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 20:54:53.491] [INFO] appLog - get notes: User found
+[2016-12-17 20:54:53.499] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 20:55:11.558] [INFO] appLog - add notes: User found
+[2016-12-17 20:55:11.597] [INFO] appLog - add notes: Note added successfully
+[2016-12-17 20:55:27.437] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 20:55:27.444] [INFO] appLog - get notes: User found
+[2016-12-17 20:55:27.455] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 20:56:52.512] [INFO] appLog - delete notes: user found
+[2016-12-17 20:56:52.516] [INFO] appLog - delete notes: Note deleted successfully
+[2016-12-17 20:56:52.710] [INFO] appLog - get notes: User found
+[2016-12-17 20:56:52.716] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 20:57:38.687] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 20:57:38.759] [INFO] appLog - get notes: User found
+[2016-12-17 20:57:38.766] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 20:57:48.032] [INFO] appLog - delete notes: user found
+[2016-12-17 20:57:48.037] [INFO] appLog - delete notes: Note deleted successfully
+[2016-12-17 20:57:48.140] [INFO] appLog - get notes: User found
+[2016-12-17 20:57:48.158] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 20:58:15.711] [INFO] appLog - delete notes: user found
+[2016-12-17 20:58:15.714] [INFO] appLog - delete notes: Note deleted successfully
+[2016-12-17 20:58:15.804] [INFO] appLog - get notes: User found
+[2016-12-17 20:58:15.808] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 20:59:07.528] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 20:59:07.533] [INFO] appLog - get notes: User found
+[2016-12-17 20:59:07.539] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 20:59:14.566] [INFO] appLog - Todo - delete: Task deleted
+[2016-12-17 20:59:14.660] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 20:59:53.274] [INFO] appLog - add notes: User found
+[2016-12-17 20:59:53.287] [INFO] appLog - add notes: Note added successfully
+[2016-12-17 21:00:07.379] [INFO] appLog - add notes: User found
+[2016-12-17 21:00:07.402] [INFO] appLog - add notes: Note added successfully
+[2016-12-17 21:00:53.098] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 21:00:53.103] [INFO] appLog - get notes: User found
+[2016-12-17 21:00:53.110] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 21:01:02.354] [INFO] appLog - add notes: User found
+[2016-12-17 21:01:02.359] [INFO] appLog - add notes: Note added successfully
+[2016-12-17 21:01:41.018] [INFO] appLog - delete notes: user found
+[2016-12-17 21:01:41.022] [INFO] appLog - delete notes: Note deleted successfully
+[2016-12-17 21:01:41.176] [INFO] appLog - get notes: User found
+[2016-12-17 21:01:41.187] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 21:01:48.129] [INFO] appLog - delete notes: user found
+[2016-12-17 21:01:48.131] [INFO] appLog - delete notes: Note deleted successfully
+[2016-12-17 21:01:48.236] [INFO] appLog - get notes: User found
+[2016-12-17 21:01:48.242] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 21:01:56.585] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 21:01:56.589] [INFO] appLog - get notes: User found
+[2016-12-17 21:01:56.594] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 21:02:29.947] [INFO] appLog - get notes: User found
+[2016-12-17 21:02:29.957] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 21:03:35.652] [INFO] appLog - get notes: User found
+[2016-12-17 21:03:35.658] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 21:03:35.667] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 21:03:51.840] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 21:03:51.982] [INFO] appLog - get notes: User found
+[2016-12-17 21:03:51.992] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 21:04:28.628] [INFO] appLog - Listening on port 8000
+[2016-12-17 21:04:28.685] [INFO] appLog - Connected to MongoDB
+[2016-12-17 21:04:33.325] [INFO] appLog - get notes: User found
+[2016-12-17 21:04:33.411] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 21:05:01.007] [ERROR] appLog - delete notes: no user found
+[2016-12-17 21:05:18.327] [INFO] appLog - delete notes: user found
+[2016-12-17 21:05:18.348] [INFO] appLog - delete notes: Note deleted successfully
+[2016-12-17 21:05:26.607] [INFO] appLog - get notes: User found
+[2016-12-17 21:05:26.636] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 21:06:01.539] [INFO] appLog - get notes: User found
+[2016-12-17 21:06:01.545] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 21:06:01.553] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 21:06:21.282] [ERROR] appLog - delete notes: no user found
+[2016-12-17 21:08:11.355] [INFO] appLog - Listening on port 8000
+[2016-12-17 21:08:11.437] [INFO] appLog - Connected to MongoDB
+[2016-12-17 21:08:12.962] [ERROR] appLog - delete notes: no user found
+[2016-12-17 21:08:32.744] [INFO] appLog - delete notes: user found
+[2016-12-17 21:08:32.765] [INFO] appLog - delete notes: Note deleted successfully
+[2016-12-17 21:08:37.248] [INFO] appLog - get notes: User found
+[2016-12-17 21:08:37.269] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 21:09:29.174] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 21:09:29.274] [INFO] appLog - get notes: User found
+[2016-12-17 21:09:29.293] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 21:09:40.012] [ERROR] appLog - delete notes: no user found
+[2016-12-17 21:12:19.677] [INFO] appLog - Listening on port 8000
+[2016-12-17 21:12:19.757] [INFO] appLog - Connected to MongoDB
+[2016-12-17 21:12:35.468] [INFO] appLog - get notes: User found
+[2016-12-17 21:12:35.490] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 21:12:35.597] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 21:12:40.605] [INFO] appLog - delete notes: Note deleted successfully
+[2016-12-17 21:12:47.230] [INFO] appLog - get notes: User found
+[2016-12-17 21:12:47.254] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 21:13:02.963] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 21:13:03.022] [INFO] appLog - get notes: User found
+[2016-12-17 21:13:03.035] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 21:13:08.962] [INFO] appLog - delete notes: Note deleted successfully
+[2016-12-17 21:13:09.164] [INFO] appLog - get notes: User found
+[2016-12-17 21:13:09.208] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 21:13:18.879] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 21:13:18.886] [INFO] appLog - get notes: User found
+[2016-12-17 21:13:18.891] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 21:13:43.028] [INFO] appLog - get notes: User found
+[2016-12-17 21:13:43.033] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 21:13:43.058] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 21:14:19.247] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 21:14:19.273] [INFO] appLog - get notes: User found
+[2016-12-17 21:14:19.280] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 21:14:52.458] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 21:14:52.477] [INFO] appLog - get notes: User found
+[2016-12-17 21:14:52.492] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 21:15:26.543] [INFO] appLog - delete notes: Note deleted successfully
+[2016-12-17 21:15:26.631] [INFO] appLog - get notes: User found
+[2016-12-17 21:15:26.635] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 21:18:00.787] [INFO] appLog - get notes: User found
+[2016-12-17 21:18:00.792] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 21:18:00.798] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 21:18:05.849] [INFO] appLog - delete notes: Note deleted successfully
+[2016-12-17 21:18:05.978] [INFO] appLog - get notes: User found
+[2016-12-17 21:18:06.005] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 21:18:23.399] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 21:18:23.470] [INFO] appLog - get notes: User found
+[2016-12-17 21:18:23.476] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 21:19:07.780] [INFO] appLog - get notes: User found
+[2016-12-17 21:19:07.781] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 21:19:07.786] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 21:19:25.676] [INFO] appLog - delete notes: Note deleted successfully
+[2016-12-17 21:19:25.904] [INFO] appLog - get notes: User found
+[2016-12-17 21:19:25.923] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 21:20:10.206] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 21:20:10.217] [INFO] appLog - get notes: User found
+[2016-12-17 21:20:10.221] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 21:20:20.824] [INFO] appLog - add notes: User found
+[2016-12-17 21:20:20.877] [INFO] appLog - add notes: Note added successfully
+[2016-12-17 21:21:01.384] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 21:21:01.407] [INFO] appLog - get notes: User found
+[2016-12-17 21:21:01.412] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 21:21:21.990] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 21:21:22.006] [INFO] appLog - get notes: User found
+[2016-12-17 21:21:22.041] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 21:21:27.170] [INFO] appLog - delete notes: Note deleted successfully
+[2016-12-17 21:21:27.314] [INFO] appLog - get notes: User found
+[2016-12-17 21:21:27.352] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 21:21:40.624] [INFO] appLog - add notes: User found
+[2016-12-17 21:21:40.642] [INFO] appLog - add notes: Note added successfully
+[2016-12-17 21:21:40.773] [INFO] appLog - get notes: User found
+[2016-12-17 21:21:40.820] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 21:22:58.431] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 21:22:58.760] [INFO] appLog - get notes: User found
+[2016-12-17 21:22:58.762] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 21:41:51.853] [INFO] appLog - get notes: User found
+[2016-12-17 21:41:51.861] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 21:41:51.869] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 21:43:15.352] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 21:43:15.362] [INFO] appLog - get notes: User found
+[2016-12-17 21:43:15.367] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 21:44:06.564] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 21:44:06.648] [INFO] appLog - get notes: User found
+[2016-12-17 21:44:06.656] [INFO] appLog - get notes: Notes retrieved for the user
+[2016-12-17 21:44:48.185] [INFO] appLog - Todo - get: Tasks found
+[2016-12-17 21:44:48.232] [INFO] appLog - get notes: User found
+[2016-12-17 21:44:48.250] [INFO] appLog - get notes: Notes retrieved for the user

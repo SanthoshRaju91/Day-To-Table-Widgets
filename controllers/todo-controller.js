@@ -151,7 +151,6 @@ module.exports = {
      * @method: delete
      */
     delete: function(req, res) {
-      console.log('here in delete');
         Todo.findByIdAndRemove({
             _id: mongoose.Types.ObjectId(req.params.id)
         }, function(err) {
